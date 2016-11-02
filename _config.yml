@@ -10,11 +10,8 @@ safe: true
 url: http://trappmartin.github.io
 author: Martin Trapp
 
-# edit this section with your information
-# biomadeira.github.io - all contents run on /vitae/
-# for a normal use at the base of the server change it to "/"
 baseurl: /
-title: Martin Trapp's Resume
+title: Martin Trapp
 name: Martin Trapp
 email: martin.trapp@ofai.at
 email_full: mailto:martin.trapp@ofai.at
@@ -29,7 +26,6 @@ address: Freyung 6/6
 postcode: 1010
 city: Vienna
 country: Austria
-#google_analytics: UA-69300817-1
 
 # needed for travis-ci build
 exclude: [vendor]
