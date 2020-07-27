@@ -16,7 +16,7 @@ In addition to my research on tractable probabilistic models, I'm part of the op
 ### Open-Source Projects
 
 - [Turing](https://turing.ml) - probabilistic programming and Bayesian inference in Julia.
-- [SumProductNetworks]() - implementation of probabilistic circuits in Julia.
+- [SumProductNetworks](https://github.com/trappmartin/SumProductNetworks.jl) - implementation of probabilistic circuits in Julia.
 
 
 ### Selected Talks
