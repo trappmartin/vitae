@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>        
+        {% if site.logo %}
+          <p style="text-align: center;"><img src="{{site.logo | relative_url}}" alt="photo"/></p>
+        {% endif %}
+
+        <p style="text-align: center;">{{ site.description | default: site.github.project_tagline }}</p>
+        
+        <br>
+        <h3 id="get-in-touch" style="text-align: center;">Get In Touch</h3>
+        <p style="text-align: center;"><a href="https://twitter.com/martin_trapp"><img src="/icons8-twitter-48.png" alt=""></a> <a href="http://www.github.com/trappmartin"><img src="/icons8-github-48.png" alt=""></a></p>
+
+
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

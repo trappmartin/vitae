@@ -1,31 +1,9 @@
 highlighter: rouge
-markdown: rdiscount
-rdiscount:
-  extensions: [smart]
-permalink: /:title.html
-paginate: 5
-gems: [jekyll-paginate]
-port: 4000
-safe: true
-url: http://trappmartin.github.io
-author: Martin Trapp
-
-baseurl: /
-title: Martin Trapp
-name: Martin Trapp
-email: martin.trapp[at]ofai.at
-email_full: mailto:martin.trapp[at]ofai.at
-website: trappmartin.github.io
-website_full: https://trappmartin.github.io
-github: trappmartin
-twitter: martin_trapp
-#tel: +44 0000 000000
-#tel_full: tel:+440000000000
-google_maps: 'https://www.google.at/maps/place/%C3%96st.+Forschungsinstitut+f%C3%BCr+Artificial+Intelligence+(OFAI)/@48.2122238,16.3642285,15z/data=!4m2!3m1!1s0x0:0xef32d1eb2cf852b1?sa=X&ved=0ahUKEwjj8tTS3YrQAhVHtBoKHdz5ACQQ_BIIgQEwCw'
-address: Freyung 6/6
-postcode: 1010
-city: Vienna
-country: Austria
+theme: jekyll-theme-minimal
+title: Martin Trapp - Almost Surely
+description: Professional Website of Martin Trapp.
+show_downloads: false
+logo: ./picture.jpg
 
 # needed for travis-ci build
 exclude: [vendor]
