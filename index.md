@@ -2,7 +2,7 @@
 
 I'm a scientist working on probabilistic machine learning.
 My research interests focus on probabilistic machine learning approaches that exploit structural properties, e.g. symmetries or decomposability, to allow efficient and  exact computations while maintaining the capability to model complex relationships in data.
-Much of my work has centered around the intersection of sum-product networks and Bayesian approaches, such as i) learning sum-product networks by formulating the learning task as Bayesian inference over the structure and parameters of the network and ii) exploiting the structural properties of sum-product networks for efficient and exact posterior inference in deep mixtures of Gaussian processes.
+
 In addition to my research on tractable probabilistic models, I'm part of the open-source project Turing.jl.
 
 ### Selected Publications
@@ -20,6 +20,9 @@ In addition to my research on tractable probabilistic models, I'm part of the op
 
 
 ### Selected Talks
+
+- [Sum-Product Networks](https://github.com/trappmartin/talks/blob/master/SumProductNetworks/presentation.pdf)
+- [Turing.jl](https://github.com/trappmartin/talks/blob/master/Turing_2019.pdf)
 
 ---
 
