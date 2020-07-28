@@ -21,8 +21,8 @@ In addition to my research on tractable probabilistic models, I'm part of the op
 
 ### Selected Talks
 
-- [Sum-Product Networks](https://github.com/trappmartin/talks/blob/master/SumProductNetworks/presentation.pdf) - presented at CTU and Univ. of Hamburg (2019).
-- [Turing.jl](https://github.com/trappmartin/talks/blob/master/Turing_2019.pdf) - presented at Vienna Julia Meetup (2019).
+- [Sum-Product Networks](https://github.com/trappmartin/talks/blob/master/SumProductNetworks/presentation.pdf) - CTU and Univ. of Hamburg (2019).
+- [Turing.jl](https://github.com/trappmartin/talks/blob/master/Turing_2019.pdf) - Vienna Julia Meetup (2019).
 
 ---
 
