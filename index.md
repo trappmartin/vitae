@@ -1,6 +1,6 @@
 ## Martin Trapp - Almost Surely
 
-I'm a scientist working on probabilistic machine learning.
+I'm a scientist working on probabilistic machine learning at Aalto University.
 My research interests focus on probabilistic models that exploit structural properties, e.g. symmetries or decomposability, to allow efficient and exact computations while maintaining the capability to model complex relationships in data. Most of my work recent work focuses on the intersection of sum-product networks and Bayesian nonparametrics.
 
 In addition to my research on tractable probabilistic models, I'm part of the open-source project Turing.jl.
