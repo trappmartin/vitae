@@ -1,9 +1,8 @@
 ## Martin Trapp - Almost Surely
 
-I'm a scientist working on probabilistic machine learning at Aalto University.
-My research interests focus on probabilistic models that exploit structural properties, e.g. symmetries or decomposability, to allow efficient and exact computations while maintaining the capability to model complex relationships in data. Most of my work recent work focuses on the intersection of sum-product networks and Bayesian nonparametrics.
+I'm a scientist working on probabilistic machine learning at Aalto University. My research interests focus on probabilistic models that exploit structural properties (e.g., symmetries or decomposability) for exact computations, prior specification and inference in Bayesian deep learning, and Bayesian nonparametrics.
 
-In addition to my research on tractable probabilistic models, I'm part of the open-source project Turing.jl.
+In addition to my research, I'm part of the open-source project Turing.jl.
 
 ### Selected Publications
 
@@ -12,12 +11,10 @@ In addition to my research on tractable probabilistic models, I'm part of the op
 - [Bayesian Learning of Sum-Product Networks](https://arxiv.org/abs/1905.10884) - NeurIPS 2019.
 - [Safe Semi-Supervised Learning of Sum-Product Networks](https://arxiv.org/abs/1710.03444) - UAI 2017.
 
-
 ### Open-Source Projects
 
-- [Turing](https://turing.ml) - probabilistic programming and Bayesian inference in Julia.
+- [Turing](https://turing.ml/) - probabilistic programming and Bayesian inference in Julia.
 - [SumProductNetworks](https://github.com/trappmartin/SumProductNetworks.jl) - probabilistic circuits in Julia.
-
 
 ### Selected Talks
 
